@@ -1,0 +1,5 @@
+{
+  "name": "Fasaaha - Arabic Synonyms & Antonyms",
+  "description": "An interactive Arabic language quiz application powered by Gemini AI to test your knowledge of synonyms (المرادفات) and antonyms (الأضداد).",
+  "requestFramePermissions": []
+}
